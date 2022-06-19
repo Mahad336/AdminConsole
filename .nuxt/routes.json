@@ -1,0 +1,89 @@
+[
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "H:\\\\Users\\\\youni\\\\Desktop\\\\FittlerWebC\\\\src\\\\pages\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/dashboard/index"
+  },
+  {
+    "name": "diet-plans",
+    "path": "/diet-plans",
+    "component": "H:\\\\Users\\\\youni\\\\Desktop\\\\FittlerWebC\\\\src\\\\pages\\\\diet-plans\\\\index.vue",
+    "chunkName": "pages/diet-plans/index"
+  },
+  {
+    "name": "food-items",
+    "path": "/food-items",
+    "component": "H:\\\\Users\\\\youni\\\\Desktop\\\\FittlerWebC\\\\src\\\\pages\\\\food-items\\\\index.vue",
+    "chunkName": "pages/food-items/index"
+  },
+  {
+    "name": "leaderboard",
+    "path": "/leaderboard",
+    "component": "H:\\\\Users\\\\youni\\\\Desktop\\\\FittlerWebC\\\\src\\\\pages\\\\leaderboard\\\\index.vue",
+    "chunkName": "pages/leaderboard/index"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "H:\\\\Users\\\\youni\\\\Desktop\\\\FittlerWebC\\\\src\\\\pages\\\\profile\\\\index.vue",
+    "chunkName": "pages/profile/index"
+  },
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "H:\\\\Users\\\\youni\\\\Desktop\\\\FittlerWebC\\\\src\\\\pages\\\\users\\\\index.vue",
+    "chunkName": "pages/users/index"
+  },
+  {
+    "name": "auth-forgot-password",
+    "path": "/auth/forgot-password",
+    "component": "H:\\\\Users\\\\youni\\\\Desktop\\\\FittlerWebC\\\\src\\\\pages\\\\auth\\\\forgot-password\\\\index.vue",
+    "chunkName": "pages/auth/forgot-password/index"
+  },
+  {
+    "name": "auth-login",
+    "path": "/auth/login",
+    "component": "H:\\\\Users\\\\youni\\\\Desktop\\\\FittlerWebC\\\\src\\\\pages\\\\auth\\\\login\\\\index.vue",
+    "chunkName": "pages/auth/login/index"
+  },
+  {
+    "name": "auth-signup",
+    "path": "/auth/signup",
+    "component": "H:\\\\Users\\\\youni\\\\Desktop\\\\FittlerWebC\\\\src\\\\pages\\\\auth\\\\signup\\\\index.vue",
+    "chunkName": "pages/auth/signup/index"
+  },
+  {
+    "name": "diet-plans-add",
+    "path": "/diet-plans/add",
+    "component": "H:\\\\Users\\\\youni\\\\Desktop\\\\FittlerWebC\\\\src\\\\pages\\\\diet-plans\\\\add\\\\index.vue",
+    "chunkName": "pages/diet-plans/add/index"
+  },
+  {
+    "name": "users-add",
+    "path": "/users/add",
+    "component": "H:\\\\Users\\\\youni\\\\Desktop\\\\FittlerWebC\\\\src\\\\pages\\\\users\\\\add\\\\index.vue",
+    "chunkName": "pages/users/add/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "H:\\\\Users\\\\youni\\\\Desktop\\\\FittlerWebC\\\\src\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "diet-plans-id-edit",
+    "path": "/diet-plans/:id/edit",
+    "component": "H:\\\\Users\\\\youni\\\\Desktop\\\\FittlerWebC\\\\src\\\\pages\\\\diet-plans\\\\add\\\\index.vue"
+  },
+  {
+    "name": "diet-plans-id-view",
+    "path": "/diet-plans/:id/view",
+    "component": "H:\\\\Users\\\\youni\\\\Desktop\\\\FittlerWebC\\\\src\\\\pages\\\\diet-plans\\\\add\\\\index.vue"
+  },
+  {
+    "name": "users-id-edit",
+    "path": "/users/:id/edit",
+    "component": "H:\\\\Users\\\\youni\\\\Desktop\\\\FittlerWebC\\\\src\\\\pages\\\\users\\\\add\\\\index.vue"
+  }
+]

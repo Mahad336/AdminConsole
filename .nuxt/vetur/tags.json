@@ -1,0 +1,35 @@
+{
+  "Loading": {
+    "description": "Auto imported from components/shared/loading/index.vue"
+  },
+  "Alert": {
+    "description": "Auto imported from components/shared/alert/index.vue"
+  },
+  "BaseBtn": {
+    "description": "Auto imported from components/base/btn/index.vue"
+  },
+  "BaseFileInput": {
+    "description": "Auto imported from components/base/file-input/index.vue"
+  },
+  "BaseForm": {
+    "description": "Auto imported from components/base/form/index.vue"
+  },
+  "BaseRadioGroup": {
+    "description": "Auto imported from components/base/radio-group/index.vue"
+  },
+  "BaseTextField": {
+    "description": "Auto imported from components/base/text-field/index.vue"
+  },
+  "BaseTextarea": {
+    "description": "Auto imported from components/base/textarea/index.vue"
+  },
+  "BaseTooltip": {
+    "description": "Auto imported from components/base/tooltip/index.vue"
+  },
+  "CoreAppBar": {
+    "description": "Auto imported from components/core/app-bar/index.vue"
+  },
+  "CoreDrawer": {
+    "description": "Auto imported from components/core/drawer/index.vue"
+  }
+}
