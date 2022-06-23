@@ -2,9 +2,9 @@
   <v-card class="rounded-xl shadow pa-5">
     <h1 class="mb-3 primary--text">Signup</h1>
     <base-form #default="{ invalid }" @submit="signup">
-      <base-text-field v-model="signupData.name" label="Name" rules="required|max:30" autofocus />
+      <base-text-field v-model="signupData.name" label="Name" rules="required|max:15" autofocus />
       <base-text-field v-model="signupData.email" label="Email" rules="required|email" />
-      <base-text-field v-model="signupData.password" label="Password" type="password" rules="required|min:8|max:36" />
+      <base-text-field v-model="signupData.password" label="Password" type="password" rules="required|min:8|max:18" />
 
       <v-row no-gutters>
         <v-col cols="6" class="pr-5">

@@ -1,9 +1,15 @@
 {
+  "Alert": {
+    "description": "Auto imported from components/shared/alert/index.vue"
+  },
   "Loading": {
     "description": "Auto imported from components/shared/loading/index.vue"
   },
-  "Alert": {
-    "description": "Auto imported from components/shared/alert/index.vue"
+  "CoreAppBar": {
+    "description": "Auto imported from components/core/app-bar/index.vue"
+  },
+  "CoreDrawer": {
+    "description": "Auto imported from components/core/drawer/index.vue"
   },
   "BaseBtn": {
     "description": "Auto imported from components/base/btn/index.vue"
@@ -25,11 +31,5 @@
   },
   "BaseTooltip": {
     "description": "Auto imported from components/base/tooltip/index.vue"
-  },
-  "CoreAppBar": {
-    "description": "Auto imported from components/core/app-bar/index.vue"
-  },
-  "CoreDrawer": {
-    "description": "Auto imported from components/core/drawer/index.vue"
   }
 }
